@@ -7,13 +7,13 @@
 
 ## What's the problem?
 
- As per UN Material Footprint increased 70% from 2000 to 2017, Currently Urban households and businesses produce lot of substantial amounts of solid waste which affects many ecosystems and species. 
+ As per UN, Material Footprint increased 70% from 2000 to 2017, Currently Urban households and businesses producing lot of substantial amounts of solid waste which affects many ecosystems and species. 
 
 ## What it does
 
 Sustainable solid waste management is essential. This implies waste reduction, reuse, recycling and composting, incineration, and disposal in landfills. Waste reduction, recycling, reuse and composting are preferred methods and should be promoted, as they reduce demand on scarce environmental resources, decrease energy use, and minimize the quantity of waste that must eventually be incinerated or disposed of in landfills.
 
-The objective of the TrashTag is based on Sustainable Consumption and Production patterns(SDG Goal) It is computer vision makes a classification model of Solid waste generation based on photos of glass, paper, cardboard, plastic, plastic bags, metal, and trash. A convolution neural network framework is used classify photos of waste generation and also to outputs the proportion of each garbage type that was classified.
+The objective of the TrashTag is based on Sustainable Consumption and Production patterns(SDG Goal) It is of computer vision makes a classification model of Solid waste generation based on photos of glass, paper, cardboard, plastic, plastic bags, metal, and trash. TrashTag is used classify photos of waste generation and also to outputs the proportion of each garbage type that was classified.
 
 ## How we built it
 
@@ -36,13 +36,13 @@ A convolutional neural network (CNN) is a popular model for image classification
 
 ## Challenges we ran into
 
-Regrettably though, for the sake of time + complexity constraints,  classifying the entire image is faster. the model is good to classify  the garbage type, but still need to improve to have better proportions of each garbage type of the true classification.However, percentage classification is more computationally expensive.That was one challenge.
+Regrettably though, for the sake of time + complexity constraints,  classifying the entire image is faster, the model is good to classify the garbage type, but still need to improve to have better proportions of each garbage type of the true classification.However, percentage classification is more computationally expensive.That was one challenge.
 
 The other major challenge was collecting datasets of different garbage types. 
 
 ## Accomplishments that we're proud of
 
-So, we really do feel proud that we were able to pull it off. Getting familiar with AWS Services(AWS Cloud services, Amazon EC2 instances, Habana Gaudi), frequently deploying and testing to get the hang of it, collecting information, and altogether making things work as a team. We're really proud of that.
+So, we really do feel proud that we were able to pull it off. Getting familiar with great AWS Services(AWS Cloud services, Amazon EC2 instances, Habana Gaudi), frequently deploying and testing to get the hang of it, collecting information, and altogether making things work as a team. We're really proud of that.
 
 ## What we learned
 It is apt to say that the process, alone, of building a project, whatever it is, holds new knowledge and skills to achieve. We did a lot of that: unlocking new knowledge and skills. This includes:
@@ -54,7 +54,7 @@ deploying as well as managing config across apps (almost like in a microservice 
 collecting and cleaning crowd-sourced data
 
 ## Project roadmap
-The product is only in like v0.0.1. There is so much left to do. We would improve the model, adding large dateset(Satellite Images, Marine Debris, Forest Debris) for achieving Sustainable Consumption and Production patterns and Substanstially Reduce waste generation to save environment for future generations.
+The product is only in like v0.0.1. There is so much left to do. We would improve the model, training with large dateset(Satellite Images, Marine Debris, Forest Debris) for achieving Sustainable Consumption and Production patterns and Substanstially Reduce waste generation to save environment for future generations.
 
 All these things and more will go into improving the app.
 
