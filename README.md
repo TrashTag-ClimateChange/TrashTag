@@ -60,7 +60,7 @@ All these things and more will go into improving the app.
 
 ## Demo video
 
-[![Watch the video](./images/preview_image.jpg)](https://www.youtube.com/watch?v=ps6iUlIUpgw)
+[![Watch the video](./earth.gif)]https://youtu.be/q7iolVJ-1vw)
 
 
 ## Getting started
@@ -94,8 +94,6 @@ $ python -m flask run
 In Browser run with 127.0.0.1:5000
 
 ## Live Demo Url:
-
-https://app-c1.a3bnbtend2e.jp-tok.codeengine.appdomain.cloud/
 
 
 ## Authors
