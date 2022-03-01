@@ -1,0 +1,84 @@
+{% extends "import.html" %} 
+{% block content %}
+
+<center>
+<br><h2>TrashTag</h2><br>
+
+
+<body translate="no" >
+ <div class="header">
+ <img  class="img-responsive" src="img1.png" style="width:100%;"/><br><br>
+ <div class="banner">
+ <h3>Our planet is choking on Material Footprint</h3>
+ <p>It is time to change how we produce, consume and dispose of the waste generation.</p>
+ </div>
+ </div>
+  <div class="content">
+    <!-- Nav pills -->
+    <ul class="nav nav-pills" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" data-toggle="pill" href="#garbage">Garbage Type Classification</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" data-toggle="pill" href="#garbagepercentage">Garbage Classification Percentage</a>
+      </li>
+    </ul>
+
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+      <div id="garbage" class="container tab-pane active">
+        <div>
+		 <div>
+		   <p> Please upload the image </p>
+		  </div>
+		 <form id="upload-file" method="post" enctype="multipart/form-data">
+			 <input type="file" name="file" class="btn btn-success" id="imageUpload" accept=".png, .jpg, .jpeg">
+		</form>
+
+		<div class="image-section" style="display:none;">
+			 <img id="imagePreview"  class="img-responsive" src="#" style="width:300px;height:300px;"/><br><br>
+			 <div>
+				<button type="button" class="btn btn-info btn-lg " id="btn-predict">Scan & Predict!</button>
+			 </div>
+		</div>
+	
+		<div class="loader" style="display:none;"></div>
+
+		<h3 id="result">
+			<span> </span>
+		</h3>
+		
+        </div>
+      </div>
+      <div id="garbagepercentage" class="container tab-pane active">
+        <div>
+		  <div>
+		   <p> Please upload the image </p>
+		  </div>
+		 <form id="classify-file" method="post" enctype="multipart/form-data">
+			 <input type="file" name="file" class="btn btn-success" id="imageClassify" accept=".png, .jpg, .jpeg">
+		</form>
+
+		<div class="classify-section" style="display:none;">
+			 <img id="classifyPreview"  class="img-responsive" src="#" style="width:300px;height:300px;"/><br><br>
+			 <div>
+				<button type="button" class="btn btn-info btn-lg " id="btn-classify">Scan & Predict!</button>
+			 </div>
+		</div>
+	
+		<div class="loader" style="display:none;"></div>
+
+		<h3 id="classify">
+			<span> </span>
+		</h3>
+		
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</center><br><br>
+{% endblock %}
