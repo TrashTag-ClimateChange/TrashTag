@@ -17,7 +17,7 @@ The objective of the TrashTag is based on Sustainable Consumption and Production
 
 ## How we built it
 
-Solid Waste(Trash) Generation Classification using Deep Learning:
+### Solid Waste(Trash) Generation Classification using Deep Learning:
 
 Sustainable solid waste management is essential. This implies waste reduction, reuse, recycling and composting, incineration, and disposal in landfills. Waste reduction, recycling, reuse and composting are preferred methods and should be promoted, as they reduce demand on scarce environmental resources, decrease energy use, and minimize the quantity of waste that must eventually be incinerated or disposed of in landfills.
 
