@@ -23,15 +23,15 @@ Sustainable solid waste management is essential. This implies waste reduction, r
 
 Deep Learning Classification model of waste generation based on photos of glass, paper, cardboard, plastic, plasticbags, metal, and trash. A convolutional neural network framework is used classify photos of waste generation and also to outputs the proportion of each garbage type that was classified.
 
-##Key Components:
+## Key Components:
 
-Habana® Gaudi® processor
+### Habana® Gaudi® processor
 The Habana® Gaudi® processor is designed to maximize training throughput and efficiency, while providing developers with optimized software and tools that scale to many workloads and systems. Habana Gaudi software was developed with the end-user in mind, providing versatility and ease of programming to address the unique needs of users’ proprietary models, while allowing for a simple and seamless transition of their existing models over to Gaudi.
 
-Data Augmentation
+### Data Augmentation
 Data Augmentation is a practice that is commonly used in image classification that enlarges the existing image dataset by creating new data sets from the existing data. This augmentation is most commonly seen in operations like shifting the image, mirroring the image horizontally or vertically, zooming in on the image, and so on. These augmentations then create new images and thus enhance the number of images to train on.
 
-Convolutional Neural Network (CNN)
+### Convolutional Neural Network (CNN)
 A convolutional neural network (CNN) is a popular model for image classification. CNNs distinguish characteristics of an image by looping through the pixel values in an image and calculating the dot product of a those pixels with a filter kernel matrix. These kernel matrices accentuate different aspects of the image such as vertical and horizontal lines, curvature, etc. For more information on CNNs, see APMonitor - Computer Vision with Deep Learning.
 
 ## Challenges we ran into
