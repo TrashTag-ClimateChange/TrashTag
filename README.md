@@ -1,6 +1,6 @@
 # Trash Tag
 ## Climate Change
-## Click! Upload! Recommend! Educate!
+## Click! Upload! Classify ! Educate!
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Contents
@@ -23,7 +23,7 @@ Sustainable solid waste management is essential. This implies waste reduction, r
 
 Deep Learning Classification model of waste generation based on photos of glass, paper, cardboard, plastic, plasticbags, metal, and trash. A convolutional neural network framework is used classify photos of waste generation and also to outputs the proportion of each garbage type that was classified.
 
-###Key Components:
+##Key Components:
 
 Habana® Gaudi® processor
 The Habana® Gaudi® processor is designed to maximize training throughput and efficiency, while providing developers with optimized software and tools that scale to many workloads and systems. Habana Gaudi software was developed with the end-user in mind, providing versatility and ease of programming to address the unique needs of users’ proprietary models, while allowing for a simple and seamless transition of their existing models over to Gaudi.
@@ -116,15 +116,15 @@ https://app-c1.a3bnbtend2e.jp-tok.codeengine.appdomain.cloud/
 - Trained Model Url : https://drive.google.com/file/d/1WF8kWRRYEUt3zxgRUBJdY93P4KWlfCC2/view?usp=sharing
 
 ## Authors
+- **Jinka Baji** - Product Lead
 - **Suneetha Jonadula** - _Lead Developer_
-- **Bharathi Athinarayanan** - _Architect_ 
-- **Furqan Yaqub Khan** - _Backend Engineer_
-- **Zaynob Sumon** - _UI/UX Designer_
 
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## References
 
-- Ms. Rema - Agri expert ( http://www.isdindia.org/)
+https://aws.amazon.com/ec2/getting-started/
+https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-habana-launching.html
+https://developer.habana.ai/category/tutorials/
