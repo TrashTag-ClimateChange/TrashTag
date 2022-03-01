@@ -60,7 +60,9 @@ All these things and more will go into improving the app.
 
 ## Demo video
 
-[![Watch the video](./images/earth.gif)]https://youtu.be/q7iolVJ-1vw)
+[![Watch the video](./images/img1.gif)]https://youtu.be/q7iolVJ-1vw)
+
+[![Watch the video](./images/img1.png)](https://www.youtube.com/watch?v=ps6iUlIUpgw)
 
 
 ## Getting started
