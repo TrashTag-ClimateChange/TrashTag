@@ -48,10 +48,10 @@ So, we really do feel proud that we were able to pull it off. Getting familiar w
 It is apt to say that the process, alone, of building a project, whatever it is, holds new knowledge and skills to achieve. We did a lot of that: unlocking new knowledge and skills. This includes:
 
 Setting up with Amazon EC2
-Launching DL1 instances using Habana DLAMI
-Training and Testing Model in Habana Gaudi
-deploying as well as managing config across apps (almost like in a microservice environment)
-collecting and cleaning crowd-sourced data
+### Launching DL1 instances using Habana DLAMI
+### Training and Testing Model in Habana Gaudi
+### deploying as well as managing config across apps (almost like in a microservice environment)
+### collecting and cleaning crowd-sourced data
 
 ## Project roadmap
 The product is only in like v0.0.1. There is so much left to do. We would improve the model, training with large dateset(Satellite Images, Marine Debris, Forest Debris) for achieving Sustainable Consumption and Production patterns and Substanstially Reduce waste generation to save environment for future generations.
