@@ -60,7 +60,7 @@ All these things and more will go into improving the app.
 
 ## Demo video
 
-[![Watch the video](./images/img1.png)](https://youtu.be/q7iolVJ-1vw)
+[![Watch the video](./images/img1.png)](https://youtu.be/xPI2VXODnNs)
 
 
 ## Getting started
