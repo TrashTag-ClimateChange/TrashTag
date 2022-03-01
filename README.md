@@ -71,12 +71,6 @@ This code works on Python3+ versions.
 
 ## Clone the repository
 
-## With Docker:
-
-$ git clone https://github.com/zero-hunger-cfc-2k21/DHAAN-Plant-Disease-Prediction-Model.git 
-
-$ TrashTag/
-
 ## Without Docker:
 
 ## Install the required libraries
