@@ -98,17 +98,6 @@ In Browser run with 127.0.0.1:5000
 https://app-c1.a3bnbtend2e.jp-tok.codeengine.appdomain.cloud/
 
 
-## Built with
-
-- [IBM Cloud](https://cloud.ibm.com/) - Hosted in IBM Cloud
-- [IBM Code Engine](https://cloud.ibm.com/login?redirect=%2Fcodeengine%2Flanding) - Deployment platform
-- [IBM Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - For converting results into speech audio in regional languages
-- [IBM Language Translator](https://cloud.ibm.com/catalog/services/language-translator) - For converting results from English to regional languages
-- [Figma](www.figma.com) - For UI design
-- [Keras Framework](https://keras.io) - For AI/ML modelling
-- [Densenet121](https://keras.io/api/applications/densenet/) - For prediction
-- Trained Model Url : https://drive.google.com/file/d/1WF8kWRRYEUt3zxgRUBJdY93P4KWlfCC2/view?usp=sharing
-
 ## Authors
 - **Jinka Baji** - Product Lead
 - **Suneetha Jonadula** - _Lead Developer_
@@ -119,6 +108,6 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## References
 
-https://aws.amazon.com/ec2/getting-started/
-https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-habana-launching.html
-https://developer.habana.ai/category/tutorials/
+### https://aws.amazon.com/ec2/getting-started/
+### https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-habana-launching.html
+### https://developer.habana.ai/category/tutorials/
