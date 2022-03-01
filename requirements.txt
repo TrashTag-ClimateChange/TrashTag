@@ -1,0 +1,14 @@
+os
+re
+opencv-python
+time
+shutil
+zipfile
+urllib
+numpy
+Scipy
+pillow
+matplotlib
+tensorflow
+flask
+
