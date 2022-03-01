@@ -95,6 +95,7 @@ In Browser run with 127.0.0.1:5000
 
 ## Live Demo Url:
 
+https://trash-tagapp.herokuapp.com/
 
 ## Authors
 - **Jinka Baji** - Product Lead
